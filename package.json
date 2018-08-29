@@ -1,0 +1,20 @@
+{
+  "name": "TTK-Code-Guide",
+  "version": "1.0.0",
+  "description": "> Code Guide by @ttk-fed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ttk-fed/TTK-Code-Guide.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ttk-fed/TTK-Code-Guide/issues"
+  },
+  "homepage": "https://github.com/ttk-fed/TTK-Code-Guide#readme"
+}
